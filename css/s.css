@@ -1,0 +1,26 @@
+
+.about_section1 {
+  font-family: "Poppins", sans-serif;
+}
+
+.about_section1 .row {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+
+.about_section1 p {
+  margin-top: 45px;
+}
+
+.about_section1 .img-box img {
+  width: 100%;
+}
+
+.about_section1 h6 {
+  text-transform: uppercase;
+  color: #bdbbbb;
+  font-weight: bold;
+  margin: 0;
+}
